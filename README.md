@@ -1,6 +1,6 @@
 # Scalping Strategy Analysis
 
-This project contains an in-depth analysis of a **scalping strategy** based on multiple technical indicators. The Jupyter Notebook (`scalping_strategy_analysis.ipynb`) performs the following:
+This project contains an in-depth analysis of a **scalping strategy** based on multiple technical indicators. The Jupyter Notebook (`strategy.ipynb`) performs the following:
 
 - **Sharpe Ratio calculation** to measure risk-adjusted returns.
 - **Cumulative Product** and **Cumulative Sum** to analyze the performance and growth of the portfolio over time.
